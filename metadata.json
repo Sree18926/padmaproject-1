@@ -1,0 +1,9 @@
+{
+  "name": "EcoPulse AI - Smart Waste Management System",
+  "description": "AI-powered waste segregation and classification, IoT smart bin fill-level monitoring with alerts, collection dispatch, citizen reporting, and waste analytics.",
+  "requestFramePermissions": [
+    "camera",
+    "geolocation"
+  ],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
